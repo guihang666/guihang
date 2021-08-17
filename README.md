@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 
 ##### A lovely web developer based in China.
 
-[![](https://img.shields.io/badge/-FedTop-005A2B?style=flat-square&labelColor=005A2B&logo=Julia&logoColor=fff)](http://www.fedtop.com/)
-[![](https://img.shields.io/badge/-guihang-E6162D?style=flat-square&labelColor=9D1620&logo=Sina-Weibo&logoColor=white)](https://weibo.com/wangrongding)
-[![](https://img.shields.io/badge/-Sparrow_wrd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Sparrow_wrd)
-[![](https://img.shields.io/badge/掘金-blue?style=flat-square)](https://juejin.cn/user/2858385963749223)
-[![](https://img.shields.io/badge/-CSDN-FF3C00?style=flat-square)](https://blog.csdn.net/weixin_42038245)
-[![](https://img.shields.io/badge/-知乎-fff?style=flat-square&logo=Zhihu&labelColor=ffffff&color=fff)](https://www.zhihu.com/people/rongding)
 
 -   😄Read more about my [Blog](http://www.fedtop.com/)
 -   👯Follow me on [掘金](https://juejin.cn/user/2858385963749223) , [CSDN](https://blog.csdn.net/weixin_42038245) , [Twitter](https://twitter.com/Sparrow_wrd) or [weibo](https://weibo.com/wangrongding)
@@ -56,9 +50,6 @@ Here are some ideas to get you started:
 ##### GitHub Stats
 
 <div align="center">
-    <a href="https://github.com/wangrongding">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangrongding&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
-    </a>
-   
-  
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongding&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Rongding's github stats"/>
 </div>
